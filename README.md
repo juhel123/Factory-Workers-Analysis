@@ -1,1 +1,1 @@
-this analysis solves different questions about factory and their employees
+This analysis solves different questions about factory and their employees
